@@ -1,6 +1,6 @@
 # mstankai's Toy Repository
 
-I've created this repository to play arround with various projects, and refresh myself on using git. In thefuture I aim to put some small projects and pieces of code here that I have written or will write.
+I've created this repository to play around with various projects, and refresh myself on using git. In the future I aim to put some small projects and pieces of code here that I have written or will write.
 
 ### Things to do for me ...
 
@@ -12,11 +12,11 @@ A to do list:
   - [x] Create a pull request
   - [ ] Solving merge conflicts
   - [ ] Switching remotes
-  - [ ] Downloading code from other repos
+  - [ ] Downloading code from other repositories
   - [ ] Creating tags
   - [ ] Go through a tutorial
 - [ ] Write a shell script
-- [ ] Download a dataset and explore using:
+- [ ] Download a data set and explore using:
   - [ ] python scripts
   - [ ] jupyter notebook
 - [ ] Write a toy ML code
@@ -24,24 +24,25 @@ A to do list:
 
 ### Cloning this repository
 
-To clone this repository, using the command line type
+To clone this repository, using the command line, type:
 ```
 git clone https://github.com/mstankai/mstankai.git
 cd mstankai
 ```
 
-Then, make your own branch and switch to it
+Next, make your own branch and switch to it to make your edits:
 ```
 git checkout -b my_useful_branchname
 ```
 
-When you are ready, commit your work
+When you are ready, commit your work:
 
 ```
 git add <files_to_commit>
 git commit -m "descriptive message"
 ```
-and push it to remote (in this case `origin`. 
+
+Push it to remote (in this case `origin`) 
 ```
 git push origin my_useful_branchname
 ```
