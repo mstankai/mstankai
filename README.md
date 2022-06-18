@@ -9,7 +9,7 @@ A to do list:
 - [x] Write a README
 - [ ] Practice git:
   - [ ] Create tasks
-  - [ ] Merging requests
+  - [x] Create a pull request
   - [ ] Solving merge conflicts
   - [ ] Switching remotes
   - [ ] Downloading code from other repos
