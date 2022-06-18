@@ -1,6 +1,6 @@
 # mstankai's Toy Repository
 
-I've created this repository to play around with various projects, and refresh myself on using git. In the future I aim to put some small projects and pieces of code here that I have written or will write.
+I've created this repository to play arround with various projects, and refresh myself on using git. In the future I aim to put some small projects and pieces of code here that I have written or will write.
 
 ### Things to do for me ...
 
@@ -12,11 +12,11 @@ A to do list:
   - [x] Create a pull request
   - [ ] Solving merge conflicts
   - [ ] Switching remotes
-  - [ ] Downloading code from other repositories
+  - [ ] Downloading code from other repos
   - [ ] Creating tags
   - [ ] Go through a tutorial
 - [ ] Write a shell script
-- [ ] Download a data set and explore using:
+- [ ] Download a dataset and explore using:
   - [ ] python scripts
   - [ ] jupyter notebook
 - [ ] Write a toy ML code
