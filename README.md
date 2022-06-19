@@ -8,7 +8,7 @@ A to do list:
 
 - [x] Write a README
 - [ ] Practice git:
-  - [ ] Create tasks
+  - [x] Create tasks
   - [x] Create a pull request
   - [ ] Solving merge conflicts
   - [ ] Switching remotes
