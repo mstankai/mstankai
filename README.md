@@ -11,10 +11,10 @@ A to do list:
   - [x] Create tasks
   - [x] Create a pull request
   - [ ] Solving merge conflicts
-  - [ ] Switching remotes
+  - [x] Creating a fork and switching remotes
   - [ ] Downloading code from other repositories
   - [ ] Creating tags
-  - [ ] Go through a tutorial
+  - [ ] Go through a git tutorial
 - [x] Write some shell scripts
 - [ ] Download a data set and explore using:
   - [ ] python scripts
