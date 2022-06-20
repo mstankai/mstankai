@@ -14,7 +14,7 @@ A to do list:
   - [x] Creating a fork and switching remotes
   - [ ] Downloading code from other repositories
   - [ ] Creating tags
-  - [ ] Go through a git tutorial
+  - [x] Go through a git tutorial
 - [x] Write some shell scripts
 - [ ] Download a data set and explore using:
   - [ ] python scripts
