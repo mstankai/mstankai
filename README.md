@@ -15,7 +15,7 @@ A to do list:
   - [ ] Downloading code from other repositories
   - [ ] Creating tags
   - [ ] Go through a tutorial
-- [ ] Write a shell script
+- [x] Write some shell scripts
 - [ ] Download a data set and explore using:
   - [ ] python scripts
   - [ ] jupyter notebook
