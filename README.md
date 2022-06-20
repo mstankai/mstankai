@@ -21,7 +21,7 @@ A to do list:
   - [ ] jupyter notebook
 - [ ] Write a toy ML code
 
-GOODBYE
+HELLO
 
 ### Cloning this repository
 
