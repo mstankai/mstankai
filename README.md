@@ -49,6 +49,7 @@ git push origin my_useful_branchname
 ```
 and use the git online UI to submit a merge request. 
 
+GOODBYE
 
 ### Here is a fun image of a happy possum
 
