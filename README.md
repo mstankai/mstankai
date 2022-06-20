@@ -10,7 +10,7 @@ A to do list:
 - [ ] Practice git:
   - [x] Create tasks
   - [x] Create a pull request
-  - [ ] Solving merge conflicts
+  - [x] Solving merge conflicts
   - [x] Creating a fork and switching remotes
   - [ ] Downloading code from other repositories
   - [ ] Creating tags
@@ -20,7 +20,6 @@ A to do list:
   - [ ] python scripts
   - [ ] jupyter notebook
 - [ ] Write a toy ML code
-
 
 ### Cloning this repository
 
@@ -47,7 +46,6 @@ Push it to remote (in this case `origin`)
 git push origin my_useful_branchname
 ```
 and use the git online UI to submit a merge request. 
-
 
 ### Here is a fun image of a happy possum
 
