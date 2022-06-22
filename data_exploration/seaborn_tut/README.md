@@ -1,1 +1,0 @@
-The data in this folder was taken from Kaggle's public datasets: [Interesting Data to Visualize](https://www.kaggle.com/datasets/alexisbcook/data-for-datavis); and the jupyter notebooks follow the tutorials from the free Kaggle course on [Data Visualization](https://www.kaggle.com/learn/data-visualization).
