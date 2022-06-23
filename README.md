@@ -2,25 +2,6 @@
 
 I've created this repository to play around with various projects, and refresh myself on using git. In the future I aim to put some small projects and pieces of code here that I have written or will write.
 
-### Things to do for me ...
-
-A to do list:
-
-- [x] Write a README
-- [ ] Practice git:
-  - [x] Create tasks
-  - [x] Create a pull request
-  - [x] Solving merge conflicts
-  - [x] Creating a fork and switching remotes
-  - [ ] Downloading code from other repositories
-  - [ ] Creating tags
-  - [x] Go through a git tutorial
-- [x] Write some shell scripts
-- [ ] Download a data set and explore using:
-  - [ ] python scripts
-  - [ ] jupyter notebook
-- [ ] Write a toy ML code
-
 ### Cloning this repository
 
 To clone this repository, using the command line, type:
