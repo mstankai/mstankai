@@ -1,6 +1,6 @@
 # Migle Stankaityte
 # ------------------------------------------
-# python helper functions
+# python PYPLOT helper functions
 
 # # import to code using:
 # sys.path.insert(0, 'python/')
@@ -25,20 +25,22 @@ import matplotlib.pyplot as plt
 from matplotlib import rc
 import seaborn as sns
 
-
-# plotly
-import plotly.express as px
-import plotly.io as pio
-import plotly.figure_factory as ff
-pio.renderers.default = 'iframe'
-
 # stats
 from scipy import stats
 from lmfit.models import GaussianModel
 
 # ==========================================
-# funtion drawing a linear regresion 
-# fit result in graph 
+# FUNTION LIST
+
+# draw_LR_fitresult(x,y,ax,debug=False,fsize=12,tag="",loc=(0.05,0.95))
+
+# ==========================================
+# FUNCTIONS
+# ------------------------------------------
+
+# funtion drawing a linear regresion fit result 
+# as a textbox in graph
+# uses LMFIT 
 
 def draw_LR_fitresult(x,y 			   # data
 					  ,ax			   # axes
