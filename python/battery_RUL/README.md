@@ -1,9 +1,7 @@
 
 # Exploring a Battery Performance Dataset
 
-Here I explore a public dataset from Kaggle with some **battery performance** information.
-The dataset is meant to be used to predict the _Remaining Useful Life_ (RUL) of batteries.
-I will likely attempt to do so at some stage. 
+Here I explore a public dataset from Kaggle with some **battery performance** information, and use it to estimate the _Remaining Useful Life_ (RUL) of batteries.
 
 ## Data:
 
